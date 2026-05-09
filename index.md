@@ -45,4 +45,4 @@ We may update our Privacy Policy from time to time to reflect changes in our pra
 ## 8. Contact Us
 If you have any questions or concerns regarding your privacy or this policy, please contact us:
 
-**Email:** syedabukhari143@gmail.com
+**Email:** 143syedabukhari@gmail.com
