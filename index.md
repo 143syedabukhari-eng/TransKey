@@ -1,8 +1,8 @@
-# Privacy Policy for Transkey: AI Chat Translator
+# Privacy Policy for KeyboardTrans: Chat Translator
 
 **Last Updated: May 23, 2024**
 
-Transkey ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the Transkey keyboard application.
+KeyboardTrans ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the KeyboardTrans keyboard application.
 
 ## 1. Privacy First Philosophy
 Our primary goal is to provide a powerful translation tool while ensuring your personal data never leaves your device without your explicit consent. As a keyboard application, we understand the sensitivity of the data you type, and we prioritize your security above all else.
@@ -16,9 +16,9 @@ Our primary goal is to provide a powerful translation tool while ensuring your p
 - Your personal typing history and dictionary are not stored on our servers.
 
 ### Translation Data
-Transkey offers two modes of translation to give you control over your data:
-- **Local AI Mode (Google ML Kit):** This is the default mode. Translation happens entirely on your device using downloaded models. No text is sent to any external servers in this mode.
-- **High Accuracy Mode (Azure AI):** This is an optional feature. If you explicitly enable this and provide your own API key, only the text you type into the dedicated translation field is sent to Microsoft Azure servers for the sole purpose of real-time translation. This text is processed and returned immediately; it is not stored or logged by Transkey.
+KeyboardTrans offers two modes of translation to give you control over your data:
+- **Local Mode (Google ML Kit):** This is the default mode. Translation happens entirely on your device using downloaded models. No text is sent to any external servers in this mode.
+- **High Accuracy Mode (Azure):** This is an optional feature. If you explicitly enable this and provide your own API key, only the text you type into the dedicated translation field is sent to Microsoft Azure servers for the sole purpose of real-time translation. This text is processed and returned immediately; it is not stored or logged by KeyboardTrans.
 
 ### Device Information
 We do not collect unique device identifiers (IMEI/Android ID) for tracking. We only access basic, non-identifiable system information (like Android version) to ensure the keyboard layout displays correctly on your device.
@@ -27,12 +27,12 @@ We do not collect unique device identifiers (IMEI/Android ID) for tracking. We o
 We implement standard security measures to protect your information. Since we do not store your personal data on any external servers, the security of your typing is protected by your device's own security features and the Android sandboxing system.
 
 ## 4. Permissions
-- **Internet:** Required only for downloading offline ML Kit language models and for optional Azure AI translations.
+- **Internet:** Required only for downloading offline ML Kit language models and for optional Azure translations.
 - **Vibrate:** Required to provide tactile (haptic) feedback when you press a key.
 - **Access Network State:** Required to check for a connection before attempting to download language models.
 
 ## 5. Third-Party Services
-Transkey uses the following third-party services which have their own privacy policies:
+KeyboardTrans uses the following third-party services which have their own privacy policies:
 - **Google ML Kit:** Used for on-device language identification and offline translation. [Google's Privacy Policy](https://policies.google.com/privacy)
 - **Microsoft Azure:** (Optional) Used only if you choose to enable High Accuracy mode. [Microsoft's Privacy Statement](https://privacy.microsoft.com/privacystatement)
 
